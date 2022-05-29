@@ -6,7 +6,8 @@ permalink: /
 redirect_to: en
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-
+  - jekyll-redirect-from
+  
 title: IFT3150 - projet informatique
 description: [A short description of your site's purpose]
 show_downloads: true
