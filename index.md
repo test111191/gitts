@@ -1,5 +1,5 @@
 ---
-permalink: /en
+permalink: en
 redirect_from:
   - /
 ---
