@@ -1,6 +1,5 @@
 ---
-permalink: en
-redirect_from: ../
+redirect_to: en
 ---
 
 qwe
