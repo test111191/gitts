@@ -1,7 +1,6 @@
 ---
 permalink: en
-redirect_from:
-  - /
+redirect_from: ../
 ---
 
 qwe
