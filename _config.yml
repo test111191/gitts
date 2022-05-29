@@ -11,3 +11,11 @@ show_downloads: true
 tagline: A responsive theme for your project on GitHub Pages
 locale: en
 
+
+fr:
+  author:
+    name: Université de Montréal
+en:
+  author:
+    name: University of Montreal
+
