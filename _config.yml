@@ -11,6 +11,8 @@ show_downloads: true
 tagline: A responsive theme for your project on GitHub Pages
 locale: en
 
+author:
+  url: https://diro.umontreal.ca/accueil/
 
 fr:
   author:
