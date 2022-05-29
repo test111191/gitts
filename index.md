@@ -1,7 +1,7 @@
 ---
-permalink: /
+permalink: /en
 redirect_from:
-  - /en
+  - /
 ---
 
 qwe
