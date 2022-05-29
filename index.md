@@ -1,2 +1,2 @@
 
-{% include page-footer.html %}
+{% include footer.html %}
