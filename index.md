@@ -1,6 +1,7 @@
 ---
-permalink: 
-redirect_to: en
+permalink: /
+redirect_from:
+  - /en
 ---
 
-dewde
+qwe
