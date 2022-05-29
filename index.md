@@ -1,5 +1,5 @@
 ---
-redirect_to: en
+redirect_to: ./en
 ---
 
 qwe
