@@ -4,7 +4,7 @@ gem "github-pages", group: :jekyll_plugins
 url: https://test111191.github.io/gitts
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-  - jekyll-redirect-from
+  - jekyll-redirect-to
   
 title: IFT3150 - projet informatique
 description: [A short description of your site's purpose]
