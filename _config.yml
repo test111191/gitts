@@ -2,6 +2,10 @@ theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 gem "github-pages", group: :jekyll_plugins
 url: https://test111191.github.io/gitts
+github:
+  repository_url: https://github.com/test111191/gitts
+  zip_url: https://github.com/test111191/gitts/archive/refs/heads/main.zip
+  tar_url: https://github.com/test111191/gitts/archive/refs/heads/main.tar.gz
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 redirect_to: https://test111191.github.io/gitts/en
