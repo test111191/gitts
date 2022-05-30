@@ -2,11 +2,7 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    <script> 
-      if (window.location.href==="https://test111191.github.io/gitts") {
-    window.location.href = "https://test111191.github.io/gitts/en/"; 
-}
-      </script>
+  
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -38,4 +34,10 @@
       {% include footer.html %}
     </main>
   </body>
+    <script> 
+      if (window.location.href==="https://test111191.github.io/gitts/") {
+    window.location.href = "https://test111191.github.io/gitts/en/"; 
+}
+      console.log(window.location.href);
+      </script>
 </html>
