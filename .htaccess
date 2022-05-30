@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^index.html$ /en [L]
+RewriteRule https://test111191.github.io/gitts/ https://test111191.github.io/gitts/en [L]
